@@ -1,3 +1,3 @@
-### workplan
+# TO DO
 
-Day 1 dat preprocessing
+## Read on Feature Selction and Engineering
